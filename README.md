@@ -1,5 +1,7 @@
 # Shopping Cart with React Redux
 
+### Shopping cart app starting with Redux core to Redux Toolkit\
+
 
 First install project dependencies:
 
